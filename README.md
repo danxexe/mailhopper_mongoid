@@ -5,6 +5,7 @@ MailhopperMongoid is a drop-in replacement for the Mailhopper::Email class.
 ## Requirements
 
 [Mailhopper](https://github.com/cerebris/mailhopper) ~> 0.2.0
+[Mongoid](https://github.com/mongoid/mongoid)
 
 ## Installation
 
